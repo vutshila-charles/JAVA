@@ -1,0 +1,1 @@
+create table status(Uname varchar(8),Message varchar(80),Results varchar(20));
